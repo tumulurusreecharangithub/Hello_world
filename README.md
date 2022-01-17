@@ -1,2 +1,3 @@
-# Hello_world
-This is a hello world project for test
+# maven-project
+
+Simple Maven Project
